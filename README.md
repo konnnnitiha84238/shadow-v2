@@ -24,10 +24,10 @@ To use Shadow Proxy, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NCCoder3/Shadow-Tabbed/
+   git clone https://github.com/konnnnitiha84238/Shadow-V2/
 2. Go into that directory
    ```bash
-   cd Shadow-Tabbed
+   cd Shadow-V2
 3. Install Node Modules
    ```npm
    npm install
